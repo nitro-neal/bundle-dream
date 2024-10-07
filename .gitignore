@@ -1,0 +1,5 @@
+my-sdk/node_modules
+my-sdk/lib/
+my-sdk/dist/
+consumer-app/build/
+consumer-app/node_modules

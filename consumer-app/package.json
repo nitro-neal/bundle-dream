@@ -1,0 +1,22 @@
+{
+  "name": "consumer-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "my-sdk": "file:../my-sdk"
+
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
